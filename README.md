@@ -3,6 +3,8 @@
 Arduino software to make a clutch to Logitech DFGT wheel.
 The potentiometer version worked well com Assetto Corsa game. pCARS game doesn't work, because it can't recognize two joystick.
 
+For Arduino Leonardo/Micro
+
 Will be necessary download and install libraries for each version:
 
 Potentiometer version use Joystick.h: 

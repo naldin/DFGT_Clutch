@@ -31,7 +31,6 @@ const int minPot = 235;
 const int maxPot = 360;
 
 void setup() {
-  //Serial.begin(9600);
   Joystick.begin(); //Start joystick mode
 }
 
@@ -39,7 +38,6 @@ void loop() {
   val = analogRead(analogIn); //read analog value
   val = map(val, minPot, maxPot, 0, 255); //mapping value between min and max pot value
   val = constrain(val, 0, 255); // Constrains min and max range between 0 and 255
-  //Serial.println(val);
 
   // use the desired option
   Joystick.setThrottle(val);

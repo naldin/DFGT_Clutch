@@ -28,8 +28,8 @@ The hardware was printed with a 3D printer, the parts can be found here:
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0199.JPG" />
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0198.JPG" />
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0107.jpg" />
-<img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0104.jpg" />
-<img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0105.jpg" />
+<img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0104.JPG" />
+<img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0105.JPG" />
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/joystick.PNG" />
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/potentiometer.png" />
 

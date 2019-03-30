@@ -27,7 +27,7 @@ Videos:
 
 [https://www.youtube.com/watch?v=w80ICCchgjo](https://www.youtube.com/watch?v=w80ICCchgjo)
 
-[https://www.youtube.com/watch?v=ggYdcae2I8s](https://www.youtube.com/watch?v=ggYdcae2I8s)
+[https://www.youtube.com/watch?v=ZCsFtUKjOCo](https://www.youtube.com/watch?v=ZCsFtUKjOCo)
 
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0201.JPG" />
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0200.JPG" />

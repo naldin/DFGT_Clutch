@@ -23,6 +23,10 @@ The hardware was printed with a 3D printer, the parts can be found here:
 
 [https://www.thingiverse.com/thing:3154657](https://www.thingiverse.com/thing:3154657)
 
+Videos:
+[https://www.youtube.com/watch?v=w80ICCchgjo](https://www.youtube.com/watch?v=w80ICCchgjo)
+[https://www.youtube.com/watch?v=ggYdcae2I8s](https://www.youtube.com/watch?v=ggYdcae2I8s)
+
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0201.JPG" />
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0200.JPG" />
 <img src="https://github.com/naldin/DFGT_Clutch/raw/master/IMG_0199.JPG" />
